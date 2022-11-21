@@ -1,9 +1,3 @@
-/**
-* Template Name: BizLand - v3.9.1
-* Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
@@ -45,7 +39,7 @@
 
 @font-face {
   font-family: myFirstFont;
-  src: url(/Fonts/Dubai-Bold.otf);
+  src: url(Fonts/Dubai-Bold.otf);
 }
 
 @font-face {
