@@ -21,7 +21,7 @@
   --border-color:                 #e9eaeb;
   --hover-color:                  #e8d13ba4;
 
-  --body-font-family:             'Metropolis', sans-serif;
+  --body-font-family:            "myFirstFontRegular", sans-serif;
 
   --h1-font-size:                 52px;
   --h2-font-size:                 46px;
@@ -62,6 +62,9 @@ body {
   color: #333F48;
 }
 
+p ,ul, li{
+  font-family: "myFirstFont", sans-serif;
+}
 
 a {
   color: var(--primary-color);
@@ -79,7 +82,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "myfirstfont", sans-serif;
+  font-family: "myFirstFont", sans-serif;
   color: #333F48;
 }
 
@@ -195,7 +198,7 @@ h6 {
   line-height: 1;
   font-weight: 600;
   letter-spacing: 0.8px;
-  font-family: "Poppins", sans-serif;
+  font-family: "myFirstFontRegular", sans-serif;
 }
 
 #header .logo a {
@@ -966,9 +969,9 @@ section {
 
 }
 
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+/* .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
 
-}
+} */
 
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -1062,7 +1065,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Roboto", sans-serif;
+  font-family: "myFirstFontRegular", sans-serif;
   color: #777777;
 }
 
